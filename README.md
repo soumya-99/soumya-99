@@ -9,6 +9,7 @@
 ![React Native](https://img.shields.io/badge/ReactNative-4285F4?logo=react&logoColor=black&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
@@ -24,5 +25,9 @@
 
 ---
 
+- Currently doing B. Sc. (Hons) from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
+- Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/)
+- Created `Real Time Covid 19 Traker`, `Reels Clone`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
 
+---
 
