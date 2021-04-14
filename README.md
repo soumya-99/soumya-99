@@ -25,9 +25,37 @@
 
 ---
 
+### What am I curerently doing?
 - Currently doing B. Sc. (Hons) from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/)
 - Created `Real Time Covid 19 Traker`, `Reels Clone`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
 
 ---
+
+### I'm truly open for collaborations. If you find my works interesting, feel free to contact me... Yay! Have a nice day! 👀👇
+<p>
+  <a href="https://www.linkedin.com/in/soumyadeep-mondal-ba11641a7/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/soumyadeep.mondal.99/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/m0ndal.s0umyadeep/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+   <a href="https://twitter.com/Soumyadeep5000" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+## GitHub Stats
+[![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumya-99&show_icons=true&theme=radical)](https://github.com/soumya-99/github-readme-stats)
+---
+## Top Languages
+[![Top Languages of Soumyadeep](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-99&layout=compact&langs_count=15)](https://github.com/soumya-99/github-readme-stats)
+
+
+
+
 
