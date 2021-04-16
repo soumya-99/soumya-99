@@ -1,6 +1,6 @@
 ![soumya-99](/soumya-99.svg)
 
-## Hi there, I'm [Soumyadeep Mondal](https://github.com/soumya-99). Welcome to my GitHub Page. 🥳
+## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page. 🥳
 
 ---
 
