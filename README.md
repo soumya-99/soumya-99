@@ -25,7 +25,7 @@
 
 ---
 
-### What am I curerently doing?
+### What am I currently doing?
 - Currently doing B. Sc. (Hons) from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/)
 - Created `Real Time Covid 19 Traker`, `Reels Clone`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
