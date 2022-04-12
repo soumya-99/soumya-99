@@ -3,7 +3,7 @@
   <img src="/soumya-99.svg" alt="soumya-99" style="width: 80vw; height: 80vh" />
 </p>
 
-## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page. 🥳
+## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.🤖
 
 ---
 
@@ -31,7 +31,7 @@
 ### What am I currently doing?
 - Currently doing B. Sc. (Hons) from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/)
-- Created `Real Time Covid 19 Traker`, `Reels Clone`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
+- Created `Real Time Covid 19 Traker`, `Reels Clone`, `Mapify Map App`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
 
 ---
 
