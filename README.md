@@ -1,4 +1,7 @@
-![soumya-99](/soumya-99.svg)
+<!-- ![soumya-99](/soumya-99.svg) -->
+<p align="center">
+  <img src="/soumya-99.svg" alt="soumya-99" style="width: 80vw; height: 80vh" />
+</p>
 
 ## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page. 🥳
 
