@@ -3,7 +3,8 @@
   <img src="/soumya-99.svg" alt="soumya-99" style="width: 80vw; height: 80vh" />
 </p>
 
-## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.🤖
+## Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.
+🔵🟢🟠🔴
 
 ---
 
@@ -35,7 +36,7 @@
 
 ---
 
-### I'm truly open for collaborations. If you find my works interesting, feel free to contact me... Yay! Have a nice day! 👀👇
+### I'm truly open for collaborations. If you find my works interesting, feel free to contact me... Yay! Have a nice day! 👀
 <p>
   <a href="https://www.linkedin.com/in/soumyadeep-mondal-ba11641a7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
