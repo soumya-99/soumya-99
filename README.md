@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.
-- 🔵 Fascinated with Material You.
+- 🔵 Fascinated with Material You (Material Design 3).
 - 🔴 Dynamic Theming.
 - 🟠 Building with Vite + React-TS and Web Components (LitElement).
 - 🟢 Front-End Dev.
@@ -14,6 +14,9 @@
 ### What do I do?
 ![React](https://img.shields.io/badge/React-4FC3F7?logo=react&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/ReactNative-4285F4?logo=react&logoColor=black&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-B43FFE?logo=vite&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-3A75B0?logo=java&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
