@@ -6,7 +6,7 @@
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.
 - 🔵 Fascinated with Material You.
 - 🔴 Dynamic Theming.
-- 🟠 Learning Web Components (LitElement).
+- 🟠 Building with Vite + React-TS and Web Components (LitElement).
 - 🟢 Front-End Dev.
 
 ---
