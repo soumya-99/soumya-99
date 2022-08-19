@@ -17,6 +17,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B43FFE?logo=vite&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-3A75B0?logo=java&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-3A75B0?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
