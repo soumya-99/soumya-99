@@ -3,7 +3,7 @@
   <img src="/soumya-99.svg" alt="soumya-99" />
 </p>
 
-### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.github.io/Portfolio-Soumyadeep/). Welcome to my GitHub Page.
+### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.vercel.app/). Welcome to my GitHub Page.
 - 🔵 Fascinated with Material You (Material Design 3).
 - 🔴 Dynamic Theming.
 - 🟠 Building with Vite + React-TS and Web Components (LitElement).
