@@ -1,6 +1,9 @@
-<!-- ![soumya-99](/soumya-99.svg) -->
 <p align="center">
   <img src="/soumya-99.svg" alt="soumya-99" />
+</p>
+
+<p align="center" height="500px" width="500px">
+  <img src="https://user-images.githubusercontent.com/59480692/213477628-81db32db-bfb5-43cd-b138-e49f4c9488a0.gif" />
 </p>
 
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.vercel.app/). Welcome to my GitHub Page.
