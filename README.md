@@ -9,7 +9,7 @@
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.vercel.app/). Welcome to my GitHub Page.
 - 🔵 Fascinated with Material You (Material Design 3).
 - 🔴 Dynamic Theming.
-- 🟠 Building with Vite + React-TS and Web Components (LitElement).
+- 🟠 Building with Vite + React-TS and Web Components.
 - 🟢 Front-End Dev.
 
 ---
