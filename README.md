@@ -17,6 +17,7 @@
 ### What do I do?
 ![React](https://img.shields.io/badge/React-4FC3F7?logo=react&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/ReactNative-4285F4?logo=react&logoColor=black&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-4285F4?logo=flutter&logoColor=black&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-B43FFE?logo=vite&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-3A75B0?logo=java&logoColor=white&style=for-the-badge)
