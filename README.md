@@ -9,7 +9,7 @@
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.vercel.app/). Welcome to my GitHub Page.
 - 🔵 Fascinated with Material You (Material Design 3).
 - 🔴 Dynamic Theming.
-- 🟠 Building Mobile Apps with React Native.
+- 🟠 Building Mobile Apps with Flutter && React Native.
 - 🟢 Front-End Dev.
 
 ---
