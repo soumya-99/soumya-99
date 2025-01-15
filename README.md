@@ -47,7 +47,7 @@
 - Full Stack Developer at Codecasper Technologies Pvt. Ltd. (January, 2023 to April, 2023)
 - Graduated in B. Sc. (Hons) in Computer Science from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/))
-- Created `SSVWS Microfinance App`, `Bill365 App`, `Data Bank App`, `Synergic Parking`, `Real Time Covid 19 Traker`, `Reels Clone`, `Mapify Map App`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
+- Created `ITC Estimate App, Admin and Superadmin`, `SSVWS Microfinance App and Admin`, `Bill365 App, Admin, Superadmin`, `Data Bank App`, `Synergic Parking`, `Real Time Covid 19 Traker`, `Reels Clone`, `Mapify Map App`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
 
 ---
 
