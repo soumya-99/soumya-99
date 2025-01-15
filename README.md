@@ -64,7 +64,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
    <a href="https://x.com/Soumyadeep5000" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" />
+    <img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
