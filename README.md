@@ -60,11 +60,11 @@
   <a href="https://www.facebook.com/soumyadeep.mondal.99/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/m0ndal.s0umyadeep/" target="_blank">
+  <a href="https://www.instagram.com/thecolorofvoid/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-   <a href="https://twitter.com/Soumyadeep5000" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+   <a href="https://x.com/Soumyadeep5000" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
