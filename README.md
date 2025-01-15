@@ -17,6 +17,7 @@
 ### What do I do?
 ![React](https://img.shields.io/badge/React-4FC3F7?logo=react&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/ReactNative-4285F4?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4FC3F7?logo=tailwindcss&logoColor=black&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-4285F4?logo=flutter&logoColor=black&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-B43FFE?logo=vite&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -47,7 +48,7 @@
 - Full Stack Developer at Codecasper Technologies Pvt. Ltd. (January, 2023 to April, 2023)
 - Graduated in B. Sc. (Hons) in Computer Science from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/))
-- Created `ITC Estimate App, Admin and Superadmin`, `SSVWS Microfinance App and Admin`, `Bill365 App, Admin, Superadmin`, `Data Bank App`, `Synergic Parking`, `Real Time Covid 19 Traker`, `Reels Clone`, `Mapify Map App`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
+- Created `ITC Estimate App, Admin and Superadmin`, `SSVWS Microfinance App and Admin`, `Bill365 App, Admin and Superadmin`, `Data Bank App`, `Synergic Parking`, `Real Time Covid 19 Traker`, `Reels Clone`, `Mapify Map App`, `Employee Management App with React & Django`, `Canvas Drawing`, `Pixel Drawing`, `WhatsApp Clone`, `CRUD Operations` any [many more](https://github.com/soumya-99/)
 
 ---
 
