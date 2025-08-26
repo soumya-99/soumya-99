@@ -45,7 +45,8 @@
 ---
 
 ### What am I currently doing?
-- Software Engineer at Synergic Softek Solutions Pvt. Ltd. (August, 2023 - Present)
+- SWE @INT. (July, 2025 - Present)
+- Software Engineer at Synergic Softek Solutions Pvt. Ltd. (August, 2023 - June, 2025)
 - Full Stack Developer at Codecasper Technologies Pvt. Ltd. (January, 2023 to April, 2023)
 - Graduated in B. Sc. (Hons) in Computer Science from Seth Anandram Jaipuria College (Affiliated to University of Calcutta) [2019 - 2022]
 - Working as a Full Stack Developer (You can check out my projects from [here](https://github.com/soumya-99/))
