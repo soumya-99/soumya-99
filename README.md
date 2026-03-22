@@ -8,9 +8,9 @@
 
 ### Hi there, I'm [Soumyadeep Mondal](https://soumya-99.vercel.app/). Welcome to my GitHub Page.
 - 🔵 Fascinated with Material You (Material Design 3).
-- 🔴 Dynamic Theming.
+- 🔴 AI Enthusiast.
 - 🟠 Building Mobile Apps with Flutter && React Native.
-- 🟢 Front-End Dev.
+- 🟢 Front-End & Mobile Dev.
 
 ---
 
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/soumyadeep-mondal-ba11641a7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.facebook.com/soumyadeep.mondal.99/" target="_blank">
+  <a href="https://www.facebook.com/thecolorsofvoid/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/thecolorofvoid/" target="_blank">
